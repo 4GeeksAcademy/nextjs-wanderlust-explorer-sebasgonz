@@ -1,1 +1,0 @@
-# nextjs-wanderlust-explorer-sebasgonz
